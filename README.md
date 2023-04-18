@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DincProductions,İ am Beginner Coder in Html,Xml and pro coder in Scratch
-- 👀 I’m interested in ...Coding and Art
-- 🌱 I’m currently learning ... Javascript
+- 👋 Hi, I’m @DincProductions,I am codinj JavaScript and HTML5 and little bit Python
+- 👀 I’m interested in ...Coding and Books
+- 🌱 I’m currently learning ... Javascript&Python
 - 📫 How to reach me ... dincproductions08@outlook.com 
 
 <!---
