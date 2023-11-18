@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DincProductions,I am codinj JavaScript and HTML5 and little bit Python
-- 👀 I’m interested in ...Coding and Books
-- 🌱 I’m currently learning ... Javascript&Python
-- 📫 How to reach me ... dincproductions08@outlook.com 
+- 👋 Hi, I’m @DincProductions,I am coding JavaScript,HTML,PHP and stuff like these
+- 👀 I’m interested in ...Coding and Series
+- 🌱 I’m currently learning ... Javascript&PHP
+- 📫 How to reach me ... bizimtrend@yahoo.com
 
 <!---
 DincProductions/DincProductions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
